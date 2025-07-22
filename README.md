@@ -60,4 +60,11 @@ MONGODB_URI=mongodb://localhost:27017/devtube
 npx nodemon app.js
 node app.js
 
+## 📄 Project Report
+
+A detailed project report describing the system architecture, design decisions, and implementation details has been included in the repository.
+
+📂 **Location**: `./Media/report.pdf`
+
+Feel free to open it to understand the inner workings and documentation of DevTube.
 
