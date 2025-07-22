@@ -40,6 +40,9 @@ It allows users to sign in using their Google account, upload videos, and intera
 ![Account](https://github.com/user-attachments/assets/c7d40e80-d9ad-4ed6-99c3-c038a07bd831)
 
 ---
+### 🎥 DevTube Demo [![Watch the video: /Media/DevTube Working.mp4]
+
+https://github.com/user-attachments/assets/907244ee-ccfd-429b-b1c8-d5f4bf906fcf
 
 ## ⚙️ Setup Instructions
 
