@@ -8,7 +8,7 @@ const fs = require('fs')
 const Channel = require("../models/Channel")
 const Tag = require("../models/Tag")
 const Comment = require("../models/Comment")
-const { channel } = require("diagnostics_channel")
+const { AppError, catchAsync } = require("../lib/errorHandler")
 const { getSubscription } = require("./channelController")
 
 // Environment variables for BunnyCDN
